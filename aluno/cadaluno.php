@@ -139,7 +139,7 @@
 
                 <div class="btn-container">
                     <input type="submit" name="cadastrar" id="cada" class="btn" value="CADASTRAR">
-                    <button id="bt" class="btn"><a href="http://localhost/atividade_17_07/index.php">Voltar</a></button>
+                    <button id="bt" class="btn"><a href="https://ceteia.guanambi.ifbaiano.edu.br/pswmedio/php/sisaluno/sistemafinal/sisaluno-italo/">Voltar</a></button>
                 </div>
             </form>
         </div>
